@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gilang-ops.github.io/website_mainan/sitemap.xml
